@@ -1,0 +1,1 @@
+This a simple and effective function to replace words in a string.
