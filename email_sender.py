@@ -5,11 +5,12 @@ import smtplib
 
 email_sender = 'ramanyazdi@gmail.com'
 email_password = password
+
 email_receiver = "kadkhodarostamm@gmail.com"
 
 subject = 'my python email sender'
 body = """
-Hi. this the body of my email. 
+hello from monkey. the monkey leg is slim. 
 """
 
 em = EmailMessage()
