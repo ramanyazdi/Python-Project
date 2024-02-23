@@ -35,7 +35,7 @@ while True:
             deduct(a,b) 
     elif choice == ".":
             print('Exit')
-            quit() 
+            break 
     else: 
         print('Error: Enter right charactor')
 
