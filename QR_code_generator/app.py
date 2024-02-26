@@ -14,4 +14,4 @@ def generate_qr(text):
     img = qr.make_image(fill_color="black", back_color="white")
     img.save('qrimg.png')
 
-generate_qr('April is good girl  ❤')
+generate_qr('I love U  ❤')
