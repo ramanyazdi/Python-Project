@@ -1,0 +1,1 @@
+the script fetches the HTML content of a webpage, parses it using BeautifulSoup, finds all the <h2> tags, and prints their text content.
